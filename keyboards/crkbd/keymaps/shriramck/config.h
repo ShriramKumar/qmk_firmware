@@ -33,8 +33,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define RETRO_TAPPING
 
-#define IGNORE_MOD_TAP_INTERRUPT
-
 #define AUTO_SHIFT_TIMEOUT 175
 
 #ifdef RGBLIGHT_ENABLE
